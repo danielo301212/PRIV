@@ -1,1 +1,18 @@
 
+
+id="plugin.program.PRIV" 
+version="8.0.3" 
+zip="https://shorturl.at/dAIRV" 
+name="PRIV" 
+version="1.0.0" 
+url="https://www.dropbox.com/scl/fi/0m30ib78jz2osu5s2mefo/premium-21.10-2025.zip?rlkey=okjxxxr58je39r8l8rowkg1bq&st=v86drjzn&dl=1"
+minor="http://"
+gui="http://"
+kodi="21.1" 
+theme="http://" 
+icon="https://TUTAJ LINK DO GRAFIKI ICON" "
+fanart="https://TUTAJ LINK DO GRAFIKI TŁO" 
+preview="https://" 
+adult="no" 
+info="http://" 
+description="PRIV Build V.1.0.0"
